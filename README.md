@@ -23,6 +23,10 @@ Build a Flask app and test in postman
 
 predict using GET & POST methods
 
+##Next step
+
+Create a front end UI
+
 
 
 ##Libraries & tools Used
