@@ -17,7 +17,7 @@ check for accuracy -(score/ confusion matrix))
 
 ## In sypder
 
-Create a Flask app
+Build a Flask app and test in postman
 
 ## In postman
 
