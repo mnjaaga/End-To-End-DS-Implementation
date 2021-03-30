@@ -2,6 +2,29 @@
 
 This outlines all the steps involved in an end to end data science project Implementation.
 
+## In jupyter 
+Import csv file using pandas
+
+Feature engineering
+
+Train/Test
+
+Classify/model the data using RandomForestClassifier
+
+predict
+
+check for accuracy -(score/ confusion matrix))
+
+## In sypder
+
+Create a Flask app
+
+## In postman
+
+predict using GET & POST methods
+
+
+
 ##Libraries & tools Used
 
 
