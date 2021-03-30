@@ -6,10 +6,15 @@ This outlines all the steps involved in an end to end data science project Imple
 
 
 Pandas
+
 Numpy
+
 Scikit-learn
+
 Flask
+
 Postman
+
 Flassger
 
 ###Postman screenshots
